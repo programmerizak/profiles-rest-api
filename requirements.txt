@@ -1,0 +1,7 @@
+django==3.0
+pipenv
+djangorestframework==3.10.3
+django-cors-headers==3.2.0
+easy-thumbnails==2.6
+channels==2.3.1
+django-webpack-loader==0.6.0
