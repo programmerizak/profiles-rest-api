@@ -57,6 +57,8 @@ media
 
 # Distribution / packaging
 .tcl8.6/
+tcl/
+.tcl/
 .Python
 build/
 develop-eggs/
