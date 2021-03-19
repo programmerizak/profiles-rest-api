@@ -1,6 +1,6 @@
 django==3.0
 pipenv
-djangorestframework==3.10.3
+djangorestframework==3.11.2
 django-cors-headers==3.2.0
 easy-thumbnails==2.6
 channels==2.3.1
